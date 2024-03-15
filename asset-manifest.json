@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nikhithadontha/Investobull/static/css/main.f855e6bc.css",
-    "main.js": "/nikhithadontha/Investobull/static/js/main.e0beae25.js",
-    "static/js/453.d1ead18a.chunk.js": "/nikhithadontha/Investobull/static/js/453.d1ead18a.chunk.js",
-    "index.html": "/nikhithadontha/Investobull/index.html",
-    "main.f855e6bc.css.map": "/nikhithadontha/Investobull/static/css/main.f855e6bc.css.map",
-    "main.e0beae25.js.map": "/nikhithadontha/Investobull/static/js/main.e0beae25.js.map",
-    "453.d1ead18a.chunk.js.map": "/nikhithadontha/Investobull/static/js/453.d1ead18a.chunk.js.map"
+    "main.css": "/Investobull/static/css/main.f855e6bc.css",
+    "main.js": "/Investobull/static/js/main.d921b74a.js",
+    "static/js/453.d1ead18a.chunk.js": "/Investobull/static/js/453.d1ead18a.chunk.js",
+    "index.html": "/Investobull/index.html",
+    "main.f855e6bc.css.map": "/Investobull/static/css/main.f855e6bc.css.map",
+    "main.d921b74a.js.map": "/Investobull/static/js/main.d921b74a.js.map",
+    "453.d1ead18a.chunk.js.map": "/Investobull/static/js/453.d1ead18a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.e0beae25.js"
+    "static/js/main.d921b74a.js"
   ]
 }
